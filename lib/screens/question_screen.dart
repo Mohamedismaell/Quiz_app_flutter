@@ -1,4 +1,4 @@
-import 'package:fa_list_app/answer_list.dart';
+import 'package:fa_list_app/widgets/answer_list.dart';
 import 'package:fa_list_app/data/questions.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

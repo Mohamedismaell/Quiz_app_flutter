@@ -1,8 +1,8 @@
 import 'package:fa_list_app/data/questions.dart';
-import 'package:fa_list_app/gradiant_color.dart';
-import 'package:fa_list_app/result_screen.dart';
-import 'package:fa_list_app/start_screen.dart';
-import 'package:fa_list_app/question_screen.dart';
+import 'package:fa_list_app/widgets/gradiant_color.dart';
+import 'package:fa_list_app/screens/result_screen.dart';
+import 'package:fa_list_app/screens/start_screen.dart';
+import 'package:fa_list_app/screens/question_screen.dart';
 import 'package:flutter/material.dart';
 
 class Quiz extends StatefulWidget {
@@ -51,6 +51,7 @@ class _QuiezState extends State<Quiz> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
           child: GradiantColor(Colors.deepPurple, Colors.purple, activeScreen!),
