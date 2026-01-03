@@ -104,12 +104,5 @@ Future Improvements
 
 This project is open-source and intended for learning and educational purposes.
 
----
 
-If you want next:
-- **More emojis / fewer emojis**
-- **Professional recruiter version**
-- **Add screenshots section**
-- **Polish wording for portfolio**
 
-Just say 👍
