@@ -40,12 +40,6 @@ After completing the quiz, the user is shown a results screen with a score and a
 <td> <img src="https://github.com/user-attachments/assets/6dd85e27-e270-4f84-a319-a1c850fff643" width="300" style="max-width: 100%;"></td>
    <td><img src="https://github.com/user-attachments/assets/8b75927f-cf29-456a-aee9-5c276a37827e" width="300" style="max-width: 100%;"></td>
    <td><img src="https://github.com/user-attachments/assets/3875e975-6854-4d5c-99d2-5de4c4b3e5b4" width="300" style="max-width: 100%;"></td>
-</tr>
-<tr>
-
-</tr>
-<tr>
-
 </tr>   
 </tbody>
 </table></markdown-accessiblity-table>
